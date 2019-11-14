@@ -1,0 +1,5 @@
+Algo_sud:
+	1) find empty sq
+	2) try on nums
+	3) find one that fits
+	4) repeat until no blank sq left
